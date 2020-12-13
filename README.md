@@ -1,0 +1,3 @@
+## Haskell Playground
+
+Exploring Haskell.
